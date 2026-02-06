@@ -23,57 +23,29 @@
 
 <br/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### `> whoami`
+<img src="https://img.shields.io/badge/LCGF-Senior%20Full--Stack%20Engineer-0d1117?style=for-the-badge&labelColor=1f6feb" />
+&nbsp;
+<img src="https://img.shields.io/badge/15%2B%20Years-Building%20Systems-0d1117?style=for-the-badge&labelColor=161b22" />
+&nbsp;
+<img src="https://img.shields.io/badge/%F0%9F%87%A7%F0%9F%87%B7-Brazil-0d1117?style=for-the-badge&labelColor=161b22" />
 
-```yaml
-name: LCGF
-role: Senior Full-Stack Engineer
-location: Brazil
-experience: 15+ years
-focus:
-  - Intelligent Systems & AI Agents
-  - Game Engine Architecture
-  - Distributed Web Platforms
-philosophy: >
-  Code is the bridge between ideas
-  and reality. I architect systems
-  where game logic, neural networks,
-  and scalable backends converge
-  into something greater.
-```
+<br/><br/>
 
-</td>
-<td width="50%" valign="top">
+</div>
 
-### `> cat expertise.json`
+> **`Game Systems`** &nbsp; Multiplayer architecture, physics engines, procedural generation & modding frameworks
+>
+> <img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white" /> <img src="https://img.shields.io/badge/FiveM-F40552?style=flat-square&logo=fivem&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unrealengine&logoColor=white" />
 
-```json
-{
-  "game_systems": {
-    "engines": ["Godot", "FiveM", "Custom C++"],
-    "scope": "Multiplayer architecture, physics,
-              procedural generation, modding frameworks"
-  },
-  "ai_engineering": {
-    "focus": ["Autonomous Agents", "LLM Integration",
-              "Conversational AI", "Neural Pipelines"],
-    "stack": ["Python", "LangChain", "OpenAI", "Claude"]
-  },
-  "web_platforms": {
-    "frontend": ["Next.js", "React", "TypeScript"],
-    "backend": ["Laravel", "Node.js", "REST/GraphQL"],
-    "infra": ["Docker", "CI/CD", "Cloud"]
-  }
-}
-```
+> **`AI Engineering`** &nbsp; Autonomous agents, LLM integration, conversational AI & neural pipelines
+>
+> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/Ollama-000?style=flat-square&logo=ollama&logoColor=white" /> <img src="https://img.shields.io/badge/BentoML-000?style=flat-square&logo=bentoml&logoColor=white" />
 
-</td>
-</tr>
-</table>
+> **`Web Platforms`** &nbsp; Scalable full-stack applications, REST/GraphQL APIs & cloud infrastructure
+>
+> <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 
 <br/>
 
@@ -153,10 +125,6 @@ philosophy: >
 </a>
 
 </div>
-
-<br/>
-
----
 
 <br/>
 
