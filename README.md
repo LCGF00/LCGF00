@@ -47,6 +47,14 @@
 >
 > <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 
+> **`Infrastructure & Security`** &nbsp; Cloud deployments, server hardening, DDoS mitigation, SSL/TLS & real-time protocols
+>
+> <img src="https://img.shields.io/badge/Ubuntu_24-E95420?style=flat-square&logo=ubuntu&logoColor=white" /> <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white" /> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" /> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" /> <img src="https://img.shields.io/badge/Let's_Encrypt-003A70?style=flat-square&logo=letsencrypt&logoColor=white" /> <img src="https://img.shields.io/badge/WebRTC-333?style=flat-square&logo=webrtc&logoColor=white" /> <img src="https://img.shields.io/badge/Webhooks-0d1117?style=flat-square&logo=webhook&logoColor=white" /> <img src="https://img.shields.io/badge/Firewall%20%2F%20iptables-FCC624?style=flat-square&logo=linux&logoColor=000" />
+
+> **`Blockchain & Hardware`** &nbsp; Crypto mining algorithms, low-level optimization & hardware architecture
+>
+> <img src="https://img.shields.io/badge/Raptoreum-00A3E0?style=flat-square&logo=bitcoin&logoColor=white" /> <img src="https://img.shields.io/badge/GhostRider_Algorithm-0d1117?style=flat-square&logo=coursera&logoColor=white" /> <img src="https://img.shields.io/badge/Hardware_Engineering-FF6F00?style=flat-square&logo=esphome&logoColor=white" />
+
 <br/>
 
 ---
