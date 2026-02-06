@@ -37,7 +37,7 @@
 
 > **`Game Systems`** &nbsp; Multiplayer architecture, physics engines, procedural generation & modding frameworks
 >
-> <img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white" /> <img src="https://img.shields.io/badge/FiveM-F40552?style=flat-square&logo=fivem&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unrealengine&logoColor=white" />
+> <img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white" /> <img src="https://img.shields.io/badge/FiveM-F40552?style=flat-square&logo=fivem&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unrealengine&logoColor=white" /> <img src="https://img.shields.io/badge/Unity-000?style=flat-square&logo=unity&logoColor=white" /> <img src="https://img.shields.io/badge/Construct_3-00FFDA?style=flat-square&logo=construct3&logoColor=000" /> <img src="https://img.shields.io/badge/Source_Engine-F57C00?style=flat-square&logo=valve&logoColor=white" /> <img src="https://img.shields.io/badge/GoldSrc-F57C00?style=flat-square&logo=valve&logoColor=white" /> <img src="https://img.shields.io/badge/Cordova-E8E8E8?style=flat-square&logo=apachecordova&logoColor=000" />
 
 > **`AI Engineering`** &nbsp; Autonomous agents, LLM integration, conversational AI & neural pipelines
 >
