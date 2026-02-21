@@ -25,12 +25,12 @@ from FiveM multiplayer architecture and ClickHouse SaaS to Rust inference router
 
 | Domain | Description | Stack |
 |--------|-------------|-------|
-| AI security tooling | Skill scanner with pattern detection, integrity hashing and community reputation tracking | `Python` `FastAPI` `SQLite` |
-| Inference routing | Rust micro-API for local LLM inference — CPU spillover, slot queues, load control | `Rust` `Ollama` |
-| Agent orchestration | Autonomous agent factory with modular pipeline architecture | `Python` |
-| Game analytics SaaS | Player data capture and query at scale — in production on large multiplayer servers | `Laravel` `ClickHouse` |
-| AI + game dev | Godot addon — procedural building generation from natural language in-engine | `GDScript` `Python` |
-| Multiplayer framework | Modular game server template with observability, build pipeline and obfuscation | `Lua` `Bun.js` `Prometheus` |
+| AI security tooling | Skill scanner with pattern detection, integrity hashing and community reputation tracking | `Python` `FastAPI` `SQLite` `Docker` |
+| Inference routing | Rust reverse proxy for local LLM inference — Axum, Tokio, CPU/GPU spillover, slot queues, SSE dashboard | `Rust` `Axum` `Tokio` `Ollama` `Qdrant` `Nginx` `Docker` |
+| Agent orchestration | Spawn and manage autonomous AI agents in Docker — warm pool, persistent memory, multi-provider LLM fallback chain, web + TUI interfaces | `Python` `FastAPI` `Docker` `Mem0` `Qdrant` `Ollama` `Vertex AI` `htmx` `SSE` |
+| Game analytics SaaS | Player data ingestion and OLAP analysis at scale — AI-powered auto-config, OAuth, real-time dashboards; in production on large multiplayer servers | `Laravel` `React` `TypeScript` `ClickHouse` `MariaDB` `Redis` `Replicate` `Inertia` `Beanstalkd` `Docker` |
+| AI + game dev | Godot 4 editor plugin — describe a building in natural language, AI generates CSG geometry with real textures in-engine | `GDScript` `Godot 4` `Replicate` `PolyHaven` |
+| Multiplayer framework | Modular FiveM boilerplate with OOP Lua, Vue 3 NUI, per-module lifecycle, JS obfuscation and Lua obfuscation via Prometheus | `Lua` `Vue 3` `TypeScript` `Bun` `Vite` `Tailwind` `Prometheus` `oxmysql` |
 
 ---
 
