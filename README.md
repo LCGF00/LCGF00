@@ -4,7 +4,6 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Brazil-🇧🇷-1a1a1d?style=flat-square" />
 &nbsp;
-<img src="https://img.shields.io/badge/hireable-open-22c55e?style=flat-square&labelColor=1a1a1d" />
 
 </div>
 
