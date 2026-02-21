@@ -43,12 +43,12 @@ from FiveM multiplayer architecture and ClickHouse SaaS to Rust inference router
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=nextjs,laravel,react,nodejs,godot&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nextjs,laravel,react,vue,nodejs,fastapi,godot&theme=dark" />
 <br/><sub>frameworks & engines</sub>
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=docker,linux,postgres,redis,nginx&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,linux,bun,postgres,mysql,redis,nginx&theme=dark" />
 <br/><sub>infra & tools</sub>
 
 </div>
