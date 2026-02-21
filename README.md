@@ -23,14 +23,14 @@ from FiveM multiplayer architecture and ClickHouse SaaS to Rust inference router
 
 ### `featured`
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**skvil**](https://github.com/LCGF00/skvil) | Security scanner for AI agent skills — pattern detection, integrity hashing, community reputation | `Python` `FastAPI` `SQLite` |
-| [**arca-gateway**](https://github.com/LCGF00/arca-gateway) | Rust micro-API routing Ollama inference with CPU spillover, slot queues and load control | `Rust` `Ollama` |
-| [**EvilFactory**](https://github.com/LCGF00/EvilFactory) | Autonomous agent orchestration — the factory skvil was built to protect against | `Python` |
-| [**data\_wire**](https://github.com/LCGF00/data_wire) | Production SaaS · FiveM player analytics at scale, used by major servers | `Laravel` `ClickHouse` |
-| [**godot\_engginer**](https://github.com/LCGF00/godot_engginer) | Godot addon — describe a building in natural language, AI models it in-engine | `GDScript` `Python` |
-| [**boilerplate\_fivem**](https://github.com/LCGF00/boiler_plate_fivem_luiscgf) | Advanced modular FiveM template with observability built in | `Lua` `Bun.js` `Prometheus` |
+| Domain | Description | Stack |
+|--------|-------------|-------|
+| AI security tooling | Skill scanner with pattern detection, integrity hashing and community reputation tracking | `Python` `FastAPI` `SQLite` |
+| Inference routing | Rust micro-API for local LLM inference — CPU spillover, slot queues, load control | `Rust` `Ollama` |
+| Agent orchestration | Autonomous agent factory with modular pipeline architecture | `Python` |
+| Game analytics SaaS | Player data capture and query at scale — in production on large multiplayer servers | `Laravel` `ClickHouse` |
+| AI + game dev | Godot addon — procedural building generation from natural language in-engine | `GDScript` `Python` |
+| Multiplayer framework | Modular game server template with observability, build pipeline and obfuscation | `Lua` `Bun.js` `Prometheus` |
 
 ---
 
