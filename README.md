@@ -11,8 +11,8 @@
 
 ```
 Luis C. (LCGF)
-Senior Full-Stack Engineer
-Building where game systems meet AI infrastructure.
+Pleno Full-Stack Engineer
+The wand no longer needs a wizard. Valar Morghulis.
 ```
 
 15+ years shipping production systems across game backends, AI pipelines and web platforms —  
