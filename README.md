@@ -3,7 +3,6 @@
 <img src="https://komarev.com/ghpvc/?username=LCGF00&style=flat-square&color=22c55e&label=profile+views" />
 &nbsp;
 <img src="https://img.shields.io/badge/Brazil-🇧🇷-1a1a1d?style=flat-square" />
-&nbsp;
 
 </div>
 
@@ -15,12 +14,12 @@ Pleno Full-Stack Engineer
 The wand no longer needs a wizard. Valar Morghulis.
 ```
 
-15+ years shipping production systems across game backends, AI pipelines and web platforms —  
-from FiveM multiplayer architecture and ClickHouse SaaS to Rust inference routers and autonomous agent factories.
+I design and ship production systems across AI infrastructure, multiplayer backends and web platforms.
+Most of my day-to-day work happens in private repositories, so this profile focuses on architecture, stack and outcomes.
 
 ---
 
-### `featured`
+### `what i build`
 
 | Domain | Description | Stack |
 |--------|-------------|-------|
@@ -30,6 +29,15 @@ from FiveM multiplayer architecture and ClickHouse SaaS to Rust inference router
 | Game analytics SaaS | Player data ingestion and OLAP analysis at scale — AI-powered auto-config, OAuth, real-time dashboards; in production on large multiplayer servers | `Laravel` `React` `TypeScript` `ClickHouse` `MariaDB` `Redis` `Replicate` `Inertia` `Beanstalkd` `Docker` |
 | AI + game dev | Godot 4 editor plugin — describe a building in natural language, AI generates CSG geometry with real textures in-engine | `GDScript` `Godot 4` `Replicate` `PolyHaven` |
 | Multiplayer framework | Modular FiveM boilerplate with OOP Lua, Vue 3 NUI, per-module lifecycle, JS obfuscation and Lua obfuscation via Prometheus | `Lua` `Vue 3` `TypeScript` `Bun` `Vite` `Tailwind` `Prometheus` `oxmysql` |
+
+---
+
+### `impact snapshot`
+
+- Built and maintained systems with sustained weekly delivery across private repos.
+- Worked on latency-sensitive services (inference routing and real-time multiplayer workloads).
+- Delivered production-grade observability and incident-oriented tooling for operations.
+- Focused on secure-by-default patterns for backend and agent workflows.
 
 ---
 
@@ -74,6 +82,15 @@ from FiveM multiplayer architecture and ClickHouse SaaS to Rust inference router
 
 ---
 
+### `current focus`
+
+- Rust services for AI inference and orchestration
+- Secure agent execution pipelines
+- FiveM backend architecture and performance
+
+---
+
 <div align="center">
-<sub>AI infrastructure · game backends · security tooling</sub>
+<sub>AI infrastructure · game backends · security tooling</sub><br/>
+<sub>Open to collaborations where architecture quality, reliability and security are first-class constraints.</sub>
 </div>
