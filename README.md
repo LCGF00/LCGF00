@@ -10,12 +10,25 @@
 
 ```
 Luis C. (LCGF)
-Pleno Full-Stack Engineer
-The wand no longer needs a wizard. Valar Morghulis.
+Senior Full-Stack & Systems Engineer
+Writing software since 1998. The wand no longer needs a wizard. Valar Morghulis.
 ```
 
-I design and ship production systems across AI infrastructure, multiplayer backends and web platforms.
-Most of my day-to-day work happens in private repositories, so this profile focuses on architecture, stack and outcomes.
+I design and ship production systems with a focus on infrastructure, security and
+distributed backends — across multiplayer game servers, AI tooling and web platforms.
+Most of my day-to-day work lives in private repositories, so this profile focuses on
+architecture, stack and outcomes.
+
+---
+
+### `origin`
+
+```
+1998 — Delphi 3, on a PC I assembled from my father's pile of scrap parts.
+I wrote my first programs in secret and skipped school to keep coding.
+He found out. I took the beating, and he sold the PC.
+I never stopped — 20+ years later, still shipping systems.
+```
 
 ---
 
@@ -23,21 +36,23 @@ Most of my day-to-day work happens in private repositories, so this profile focu
 
 | Domain | Description | Stack |
 |--------|-------------|-------|
-| AI security tooling | Skill scanner with pattern detection, integrity hashing and community reputation tracking | `Python` `FastAPI` `SQLite` `Docker` |
-| Inference routing | Rust reverse proxy for local LLM inference — Axum, Tokio, CPU/GPU spillover, slot queues, SSE dashboard | `Rust` `Axum` `Tokio` `Ollama` `Qdrant` `Nginx` `Docker` |
-| Agent orchestration | Spawn and manage autonomous AI agents in Docker — warm pool, persistent memory, multi-provider LLM fallback chain, web + TUI interfaces | `Python` `FastAPI` `Docker` `Mem0` `Qdrant` `Ollama` `Vertex AI` `htmx` `SSE` |
-| Game analytics SaaS | Player data ingestion and OLAP analysis at scale — AI-powered auto-config, OAuth, real-time dashboards; in production on large multiplayer servers | `Laravel` `React` `TypeScript` `ClickHouse` `MariaDB` `Redis` `Replicate` `Inertia` `Beanstalkd` `Docker` |
-| AI + game dev | Godot 4 editor plugin — describe a building in natural language, AI generates CSG geometry with real textures in-engine | `GDScript` `Godot 4` `Replicate` `PolyHaven` |
-| Multiplayer framework | Modular FiveM boilerplate with OOP Lua, Vue 3 NUI, per-module lifecycle, JS obfuscation and Lua obfuscation via Prometheus | `Lua` `Vue 3` `TypeScript` `Bun` `Vite` `Tailwind` `Prometheus` `oxmysql` |
+| Infrastructure & inference routing | Rust reverse proxy for local LLM inference — CPU/GPU spillover, slot queues, SSE dashboard | `Rust` `Axum` `Tokio` `Nginx` `Docker` |
+| Security tooling | Scanner with pattern detection, integrity hashing and community reputation tracking | `Python` `FastAPI` `SQLite` `Docker` |
+| Distributed FiveM systems | Parallel backend for a live FiveM server — Rust services with semantic code search over 1,650+ Lua files and real-time OLAP log analytics | `Rust` `Axum` `Tokio` `Qdrant` `ClickHouse` |
+| FiveM platform engineering | Modular framework with OOP Lua, Vue 3 NUI, per-module lifecycle and build-time obfuscation — complex parallel game systems, not just scripts | `Lua` `Vue 3` `TypeScript` `Bun` `Vite` `oxmysql` |
+| Game analytics SaaS | Player ingestion and OLAP analysis at scale — OAuth, real-time dashboards; in production on large multiplayer servers | `Laravel` `React` `ClickHouse` `MariaDB` `Redis` `Docker` |
+| Agent orchestration | Autonomous agent runtime in Docker — warm pool, persistent memory, multi-provider fallback, web + TUI interfaces | `Python` `FastAPI` `Docker` `Mem0` `Qdrant` |
 
 ---
 
 ### `impact snapshot`
 
-- Built and maintained systems with sustained weekly delivery across private repos.
-- Worked on latency-sensitive services (inference routing and real-time multiplayer workloads).
-- Delivered production-grade observability and incident-oriented tooling for operations.
-- Focused on secure-by-default patterns for backend and agent workflows.
+- 20+ years writing software — from Delphi desktop apps to distributed Rust backends.
+- Architected latency-sensitive infrastructure: inference routing and real-time multiplayer workloads.
+- Built production distributed data systems combining vector search (Qdrant) and OLAP analytics (ClickHouse).
+- Security-first by default — scanning, integrity hashing and secure execution pipelines for backend and agent workflows.
+- Specialized in FiveM platform engineering — complex parallel server systems, beyond simple scripts.
+- Delivered production-grade observability and incident-oriented tooling for live operations.
 
 ---
 
@@ -45,7 +60,7 @@ Most of my day-to-day work happens in private repositories, so this profile focu
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,rust,python,lua,php,go&theme=dark" />
+<img src="https://skillicons.dev/icons?i=rust,ts,python,lua,php,go&theme=dark" />
 <br/><sub>languages</sub>
 
 <br/><br/>
@@ -84,13 +99,13 @@ Most of my day-to-day work happens in private repositories, so this profile focu
 
 ### `current focus`
 
-- Rust services for AI inference and orchestration
-- Secure agent execution pipelines
-- FiveM backend architecture and performance
+- FiveM platform & distributed backend architecture
+- Rust services for high-performance data and inference
+- Security and observability for production systems
 
 ---
 
 <div align="center">
-<sub>AI infrastructure · game backends · security tooling</sub><br/>
+<sub>systems engineering · game backends · security · infrastructure</sub><br/>
 <sub>Open to collaborations where architecture quality, reliability and security are first-class constraints.</sub>
 </div>
