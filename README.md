@@ -10,7 +10,7 @@
 
 ```
 Luis C. (LCGF)
-Senior Full-Stack & Systems Engineer
+CTO & AI Engineer
 Writing software since 1998. The wand no longer needs a wizard. Valar Morghulis.
 ```
 
